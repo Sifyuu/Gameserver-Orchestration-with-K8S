@@ -1,0 +1,2 @@
+- SteamCmd has a base image already created.
+- Vanilla minecraft has a great base image by itzd
